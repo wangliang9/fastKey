@@ -1,0 +1,16 @@
+# 便携版 Go 工具链（体积大，不上传）
+go/
+
+# 编译产物（通过 GitHub Release 发布）
+*.exe
+
+# 运行日志与临时文件
+fastKey.log
+screenshot*.png
+__pycache__/
+*.pyc
+
+# 编辑器/系统
+.vscode/
+.idea/
+Thumbs.db

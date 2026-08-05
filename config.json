@@ -1,0 +1,30 @@
+{
+  "hotkey": "F9",
+  "exitHotkey": "Ctrl+Alt+Q",
+  "targets": [
+    {
+      "process": "aoe2de_s.exe",
+      "titleContains": ""
+    },
+    {
+      "process": "leigod.exe",
+      "titleContains": ""
+    },
+    {
+      "process": "leigod_launcher.exe",
+      "titleContains": ""
+    },
+    {
+      "process": "steamwebhelper.exe",
+      "titleContains": ""
+    },
+    {
+      "process": "notepad.exe",
+      "titleContains": ""
+    },
+    {
+      "process": "",
+      "titleContains": "计算器"
+    }
+  ]
+}
