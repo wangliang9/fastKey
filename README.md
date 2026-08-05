@@ -7,8 +7,6 @@
 
 ![设置界面](docs/screenshot-settings.png)
 
-![托盘菜单](docs/screenshot-traymenu.png)
-
 ## 使用方法
 
 1. 双击运行 `fastKey.exe`（后台驻留，托盘区出现 FK 图标）。
